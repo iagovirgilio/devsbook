@@ -20,7 +20,7 @@
                 </div>
             <?php endif; ?>
 
-            <input placeholder="Digite seu nome completo" class="input" type="text" name="nome" />
+            <input placeholder="Digite seu nome completo" class="input" type="text" name="name" />
 
             <input placeholder="Digite seu e-mail" class="input" type="email" name="email" />
 
